@@ -6,13 +6,13 @@ This project is a part of the AAI-500 course in the Applied Artificial Intellige
 
 **Installation**
 
-You should add an instruction how this project to be used, installed, run, edited in others’ machine.
+Launch Jupyter notebook and open the ipynb file from this repository.
   
 **Project Intro/Objective**
 
-The main purpose of this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s). 
+The main purpose of this project is assess different statistical models to see performance on the SPY index. Identify the pros and cons of each model and select a model to continue investigating. We want to identify which model would be the most practical in applying to real world financial practice. Financial Portfolio Managers are always looking for any edge they can get in the markets. If we can provide an accurate model that can predict whether or note the market will close red or green, it'll provide a slight edge to the portfolio manager. 
 
-**Partner(s)/Contributor(s)  **
+**Partner(s)/Contributor(s)**
 
 •	Donavan Trigg
 
