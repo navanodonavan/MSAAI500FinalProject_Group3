@@ -11,10 +11,14 @@ You should add an instruction how this project to be used, installed, run, edite
 **Project Intro/Objective**
 
 The main purpose of this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s). 
-Partner(s)/Contributor(s)  
-•	[Name of Your Teammates]
-•	Website for partner, if available. 
-•	Partner contact: [Name of Contact], and If you do not have a partner leave this section out
+
+**Partner(s)/Contributor(s)  **
+
+•	Donavan Trigg
+
+•	Ian Rebmann
+
+•	Dale Walters
 
 **Methods Used**
 
@@ -39,8 +43,8 @@ Discuss the details of project overview. Description your selected dataset, such
 
 **License**
 
-You can add under what license your project is. As a good practice, add LICENSE file in your project folder as well. 
+N/A
 
 **Acknowledgments**
 
-You can mention and thank your professors and those who technically helped you during the project. 
+N/A
