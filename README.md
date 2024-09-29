@@ -18,30 +18,19 @@ Partner(s)/Contributor(s)
 
 **Methods Used**
 
-A few examples are:
 •	Inferential Statistics
-•	NLP
-•	Computer Vision
+
 •	Machine Learning
-•	Deep Learning
-•	Ethics for AI
+
 •	Data Visualization
-•	IoT
-•	Cloud Computing 
+
 •	Data Manipulation
-•	Case Studies 
-•	etc.
 
 **Technologies**
 
-A few examples are:
 •	Python
-•	C++
-•	SQL
-•	PostGres, MySql
-•	R
-•	JavaScript
-•	etc.
+
+•	Jupyter Notebook
 
 
 **Project Description**
