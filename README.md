@@ -1,4 +1,4 @@
-# Assessing Predictability of SPY Given 10 Years of Daily Price Data
+# Assessing Predictability of SPY from Daily Price Data
 
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
