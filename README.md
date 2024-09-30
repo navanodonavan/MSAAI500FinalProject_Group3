@@ -1,4 +1,4 @@
-# Assessing Predictability of SPY from Daily Price Data
+# Accurately Predicting SPY closing Green or Red Based on Daily Historic Data
 
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
