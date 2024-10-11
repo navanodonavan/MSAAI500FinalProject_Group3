@@ -43,7 +43,7 @@ Financial Portfolio Managers are always looking for any edge they can get in the
 
 **Project Description**
 
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+Test Regression and Classification models to accuarately predict whether SPY will close green or red. SPY historical data dating back to 1993. Models tested against TSLA, AMZN, GOOGL, and AAPL stock for validation. Logistic Regression Model was chosen as the model for implementation as it was accurate and fast when compared to other classification models. Regression models were disregarded as our goal shifted from prediction to classification problem.
 
 **License**
 
